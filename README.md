@@ -8,7 +8,7 @@
 
   
 
-  <a href = "mailto:paulo@email.com?subject=Contato%20sobre%20serviço&body=Olá,%20tenho%20interesse."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pauloalvares47@gmail.com?subject=Contato%20sobre%20serviço&body=Olá,%20tenho%20interesse."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-alvares-7b2353212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
