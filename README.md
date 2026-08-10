@@ -18,6 +18,26 @@ Atualmente sou **Founder da TioVem**, uma startup em desenvolvimento. Também cr
 
 ---
 
+### 💼 Projetos em destaque
+
+#### Grupo Getulinense de Combate ao Câncer
+
+Projeto institucional desenvolvido para o **Grupo Getulinense de Combate ao Câncer**, reunindo informações da instituição, membros, memorial, eventos, galeria, notícias, formas de contribuição e contato em uma experiência web responsiva.
+
+**Stack:** Vite • JavaScript • Tailwind CSS • HTML5
+
+[🌐 Acessar site](https://ggcc.org.br/) · [💻 Ver repositório](https://github.com/pauloAlvaresNeto/cancer_group_getulina)
+
+#### Paulo Alvares J. — Estruturas e Serralheria
+
+Site institucional desenvolvido para apresentar serviços de estruturas metálicas e serralheria, fortalecer a presença digital do negócio e facilitar o contato de novos clientes.
+
+**Stack:** HTML5 • CSS3 • JavaScript • Bootstrap
+
+[🌐 Acessar site](https://pauloalvaresneto.github.io/PA---Serralheria-e-Estrutura/) · [💻 Ver repositório](https://github.com/pauloAlvaresNeto/PA---Serralheria-e-Estrutura)
+
+---
+
 ### 🛠️ Tecnologias
 
 <p align="left">
