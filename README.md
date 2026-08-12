@@ -73,6 +73,8 @@ Site institucional desenvolvido para apresentar serviços de estruturas metálic
 **Backend & Dados**
 
 <p align="left">
+  <img alt="Supabase" title="Supabase" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+  &nbsp;&nbsp;
   <img alt="Node.js" title="Node.js" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   &nbsp;&nbsp;
   <img alt="PHP" title="PHP" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
