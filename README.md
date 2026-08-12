@@ -82,6 +82,16 @@ Site institucional desenvolvido para apresentar serviços de estruturas metálic
   <img alt="MySQL" title="MySQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </p>
 
+**Pagamentos & Integrações**
+
+<p align="left">
+  <img alt="Asaas" title="Asaas API" height="28" src="https://img.shields.io/badge/Asaas-API-0B5CFF?style=for-the-badge" />
+  &nbsp;
+  <img alt="AbacatePay" title="AbacatePay API" height="28" src="https://img.shields.io/badge/AbacatePay-API-16A34A?style=for-the-badge" />
+  &nbsp;
+  <img alt="Google APIs" title="Google APIs" height="28" src="https://img.shields.io/badge/Google-APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
 **Ferramentas & Workflow**
 
 <p align="left">
