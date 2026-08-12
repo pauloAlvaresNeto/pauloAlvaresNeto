@@ -40,22 +40,58 @@ Site institucional desenvolvido para apresentar serviços de estruturas metálic
 
 ### 🛠️ Tecnologias
 
+**Mobile**
+
 <p align="left">
-  <img alt="Flutter" title="Flutter" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img alt="Flutter" title="Flutter" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   &nbsp;&nbsp;
-  <img alt="Dart" title="Dart" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  <img alt="Dart" title="Dart" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   &nbsp;&nbsp;
-  <img alt="Firebase" title="Firebase" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  <img alt="Firebase" title="Firebase" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
   &nbsp;&nbsp;
-  <img alt="JavaScript" title="JavaScript" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Android Studio" title="Android Studio" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+</p>
+
+**Web & Frontend**
+
+<p align="left">
+  <img alt="JavaScript" title="JavaScript" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   &nbsp;&nbsp;
-  <img alt="HTML5" title="HTML5" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="HTML5" title="HTML5" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   &nbsp;&nbsp;
-  <img alt="CSS3" title="CSS3" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="CSS3" title="CSS3" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   &nbsp;&nbsp;
-  <img alt="Bootstrap" title="Bootstrap" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="Tailwind CSS" title="Tailwind CSS" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   &nbsp;&nbsp;
-  <img alt="Git" title="Git" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Bootstrap" title="Bootstrap" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="Vite" title="Vite" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="jQuery" title="jQuery" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+</p>
+
+**Backend & Dados**
+
+<p align="left">
+  <img alt="Node.js" title="Node.js" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="PHP" title="PHP" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="MySQL" title="MySQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</p>
+
+**Ferramentas & Workflow**
+
+<p align="left">
+  <img alt="Git" title="Git" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="GitHub" title="GitHub" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="GitHub Actions" title="GitHub Actions" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="npm" title="npm" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  &nbsp;&nbsp;
+  <img alt="VS Code" title="VS Code" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </p>
 
 ---
