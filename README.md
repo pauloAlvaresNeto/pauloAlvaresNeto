@@ -4,7 +4,7 @@
 
 Construo produtos digitais do zero — da ideia e da experiência do usuário até a implementação.
 
-Atualmente sou **Founder da TioVem**, uma startup em desenvolvimento. Também crio projetos próprios e soluções digitais para negócios e organizações, sempre buscando transformar problemas reais em produtos simples, úteis e bem construídos.
+Sou **Founder da TioVem**, uma startup em desenvolvimento. Também crio projetos próprios e soluções digitais para negócios e organizações, sempre buscando transformar problemas reais em produtos simples, úteis e bem construídos.
 
 ---
 
